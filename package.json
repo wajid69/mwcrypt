@@ -1,0 +1,24 @@
+{
+    "name": "mwcrypt",
+    "version": "1.0.0",
+    "description": "A lightweight bcrypt alternative for password hashing and verification",
+    "main": "src/index.js",
+    "scripts": {
+    "test": "node test/mwcrypt.test.js"
+    },
+    "keywords": [
+    "hash",
+    "password",
+    "mwcrypt",
+    "security"
+    ],
+    "author": "Muhammad",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+         "url": "https://github.com/wajid69/mwcrypt.git"
+    },
+    "dependencies": {
+    "mwcrypt": "^1.0.0"
+    }
+}
